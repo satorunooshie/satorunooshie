@@ -1,4 +1,5 @@
-# Welcome to Satoru's profile
+# Nama saya Satoru
+## Saya suka makan makanan sedap
 <p align="left">
   <a href="https://github.com/satorunooshie/satorunooshie">
     <img src="https://komarev.com/ghpvc/?username=satorunooshie" alt="satorunooshie" />
