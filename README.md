@@ -20,6 +20,3 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=satorunooshie&theme=gruvbox)
 
-![](https://raw.githubusercontent.com/satorunooshie/satorunooshie/master/myprofiles/github/0-profile-details.svg)
-![](https://raw.githubusercontent.com/satorunooshie/satorunooshie/master/myprofiles/dracula/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/satorunooshie/satorunooshie/master/myprofiles/monokai/3-stats.svg)
