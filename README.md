@@ -18,7 +18,6 @@
   </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=satorunooshie&theme=gruvbox)
 ```
 
                                                                                                     
