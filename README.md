@@ -20,3 +20,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=satorunooshie&theme=gruvbox)
 
+<!--
+![vim](https://camo.githubusercontent.com/c92967ebbcd432ff9953c5f48dc39151f7f1092dd94216298197e3376d551b05/68747470733a2f2f7777772e6b616f726979612e6e65742f626c6f672f323031332f31322f30362f76696d6c6f676f2d353634783536342e706e67)
+-->
