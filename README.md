@@ -4,17 +4,8 @@
   <a href="https://github.com/satorunooshie/satorunooshie">
     <img src="https://komarev.com/ghpvc/?username=satorunooshie" alt="satorunooshie" />
   </a>
-  <a href="http://twitter.com/satorunooshie">
-    <img height="20" src="https://img.shields.io/twitter/follow/satorunooshie?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/satorunooshie">
     <img height="20" src="https://img.shields.io/github/followers/satorunooshie?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/satorunooshie">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/satorunooshie/posts.svg" />
-  </a>
-  <a href="http://qiita.com/satorunooshie">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/satorunooshie/contributions.svg" />
   </a>
 </p>
 
