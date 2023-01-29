@@ -1,5 +1,5 @@
 # Nama saya Satoru
-## Saya suka makan makanan sedap
+### Saya suka makan makanan sedap
 <p align="left">
   <a href="https://github.com/satorunooshie/satorunooshie">
     <img src="https://komarev.com/ghpvc/?username=satorunooshie" alt="satorunooshie" />
@@ -62,6 +62,16 @@
                                                *@@@@                                                
 ```
 
-<!--
-![vim](https://camo.githubusercontent.com/c92967ebbcd432ff9953c5f48dc39151f7f1092dd94216298197e3376d551b05/68747470733a2f2f7777772e6b616f726979612e6e65742f626c6f672f323031332f31322f30362f76696d6c6f676f2d353634783536342e706e67)
--->
+### Internships
+
+|  Start  |   End   |       Company       |
+|---------|:--------|:--------------------|
+| 2022/11 | 2023/03 |       Eureka        |
+| 2022/10 | 2022/11 |    CARTA HOLDINGS   |
+| 2022/09 | 2022/10 |       Eureka        |
+| 2022/09 | 2022/09 |        DeNA         |
+| 2021/05 | 2022/09 |       Eureka        |
+| 2021/05 | 2022/09 |   CyberAgent, Inc.  |
+| 2020/11 | 2021/02 | Rakuten Group, Inc. |
+
+[Medium](https://satorunooshie.medium.com/)
