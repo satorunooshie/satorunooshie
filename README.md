@@ -85,3 +85,4 @@
 - [App Store Server Notifications V2をGoで検証するOSSを作った](https://medium.com/eureka-engineering/published-oss-for-app-store-server-notifications-v2-ca8737dd5a90)
 - [Pairsのアイキャッチを支える動画合成システムのアーキテクチャを実装してみて](https://satorunooshie.medium.com/video-synthesis-architecture-of-pairs-eyecatch-5eb5810074a6)
 - [Vimカラースキーム自作のすすめ](https://satorunooshie.medium.com/recommend-generating-own-colorsheme-3114abe3e1d)
+- [vimrcをVim9 scriptで書き換えてみて](https://satorunooshie.medium.com/vim9scriptation-of-vimrc-e87b54136bf2)
