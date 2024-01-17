@@ -10,10 +10,6 @@
   <a href="https://x.com/satorunooshie">
     <img height="20" src="https://img.shields.io/twitter/follow/satorunooshie">
   </a>
-  <br>
-  <a href="https://github.com/satorunooshie/satorunooshie">
-    <img src="https://komarev.com/ghpvc/?username=satorunooshie" alt="satorunooshie" />
-  </a>
   <a href="https://github.com/satorunooshie">
     <img height="20" src="https://img.shields.io/github/followers/satorunooshie?label=follow&logo=github&style=flat" />
   </a>
