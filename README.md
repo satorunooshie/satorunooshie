@@ -81,8 +81,15 @@
 
 ## Top Posts
 
-- [Go標準パッケージで作るシナリオテスト](https://medium.com/eureka-engineering/scenario-testing-with-go-standard-library-b67943ddb14a)
-- [App Store Server Notifications V2をGoで検証するOSSを作った](https://medium.com/eureka-engineering/published-oss-for-app-store-server-notifications-v2-ca8737dd5a90)
-- [Pairsのアイキャッチを支える動画合成システムのアーキテクチャを実装してみて](https://satorunooshie.medium.com/video-synthesis-architecture-of-pairs-eyecatch-5eb5810074a6)
-- [Vimカラースキーム自作のすすめ](https://satorunooshie.medium.com/recommend-generating-own-colorsheme-3114abe3e1d)
-- [vimrcをVim9 scriptで書き換えてみて](https://satorunooshie.medium.com/vim9scriptation-of-vimrc-e87b54136bf2)
+- Data Structure / Architecture
+  - [Fractional indexingによる並び替えAPIとデータ構造](https://medium.com/eureka-engineering/introducing-fractional-indexing-49d3dec5b489)
+  - [Pairsのアイキャッチを支える動画合成システムのアーキテクチャを実装してみて](https://satorunooshie.medium.com/video-synthesis-architecture-of-pairs-eyecatch-5eb5810074a6)
+- Go
+  - [Go標準パッケージで作るシナリオテスト](https://medium.com/eureka-engineering/scenario-testing-with-go-standard-library-b67943ddb14a)
+  - [App Store Server Notifications V2をGoで検証するOSSを作った](https://medium.com/eureka-engineering/published-oss-for-app-store-server-notifications-v2-ca8737dd5a90)
+  - [GoでMongoDBのネストされたソートカラムを動的に組み立てる](https://satorunooshie.medium.com/dynamically-assembles-nested-sort-columns-in-mongodb-c4298042287f)
+- Vim
+  - [Vimカラースキーム自作のすすめ](https://satorunooshie.medium.com/recommend-generating-own-colorsheme-3114abe3e1d)
+  - [vimrcをVim9 scriptで書き換えてみて](https://satorunooshie.medium.com/vim9scriptation-of-vimrc-e87b54136bf2)
+  - [Vim を debug する](https://satorunooshie.medium.com/debugging-vim-itself-1f1f7834705f)
+  - [Vim で始める正規表現](https://satorunooshie.medium.com/vim-with-regexp-7baa93d1205c)
