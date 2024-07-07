@@ -87,5 +87,6 @@
 - Vim
   - [Vimカラースキーム自作のすすめ](https://satorunooshie.medium.com/recommend-generating-own-colorsheme-3114abe3e1d)
   - [vimrcをVim9 scriptで書き換えてみて](https://satorunooshie.medium.com/vim9scriptation-of-vimrc-e87b54136bf2)
-  - [Vim を debug する](https://satorunooshie.medium.com/debugging-vim-itself-1f1f7834705f)
-  - [Vim で始める正規表現](https://satorunooshie.medium.com/vim-with-regexp-7baa93d1205c)
+  - [Vimをdebugする](https://satorunooshie.medium.com/debugging-vim-itself-1f1f7834705f)
+  - [Vimで始める正規表現](https://satorunooshie.medium.com/vim-with-regexp-7baa93d1205c)
+  - [GitHub ActionsでVimの起動速度の履歴を管理する](https://satorunooshie.medium.com/github-actions-vim-startuptime-7102c550f767)
