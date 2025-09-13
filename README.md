@@ -63,17 +63,22 @@
 
 ## Career
 
-|  Start  |   End   |       Company       |
-|:-------:|:-------:|:--------------------|
-| 2023/04 |    -    |     Eureka, Inc.    |
-|    -    |    -    |     *Graduation*    |
-| 2022/11 | 2023/03 |     Eureka, Inc.    |
-| 2022/10 | 2022/11 |    CARTA HOLDINGS   |
-| 2022/09 | 2022/10 |     Eureka, Inc.    |
-| 2022/09 | 2022/09 |    DeNA Co.,Ltd.    |
-| 2021/05 | 2022/09 |     Eureka, Inc.    |
-| 2021/05 | 2022/09 |   CyberAgent, Inc.  |
-| 2020/11 | 2021/02 | Rakuten Group, Inc. |
+|  Start  |   End   |                Company                |  Contract  |   Period   |
+|:-------:|:-------:|:-------------------------------------:|:----------:|:----------:|
+| 2025/07 |    -    |           Third Intelligence          |  Permanent |      -     |
+|    -    | 2025/07 |              Eureka, Inc.             |  Permanent | 4y2m(2y4m) |
+|    -    | 2025/07 |             GROWTH VERSE              |  Contract  |     1y8m   |
+| 2025/02 | 2025/07 |         MATSUO INSTITUTE, Inc         |  Contract  |      5m    |
+| 2024/07 | 2024/10 | Mitsui & Co. Digital Asset Management |  Contract  |      3m    |
+| 2023/12 |    -    |             GROWTH VERSE              |  Contract  |      -     |
+| 2023/04 |    -    |              Eureka, Inc.             |  Permanent |      -     |
+|    -    |    -    |              *Graduation*             |      -     |      -     |
+|    -    | 2023/03 |              Eureka, Inc.             |  Fulltime  |     1y10m  |
+| 2022/10 | 2022/11 |             CARTA HOLDINGS            | Internship |      1m    |
+| 2022/09 | 2022/09 |             DeNA Co.,Ltd.             | Internship |      1m    |
+| 2021/05 |    -    |              Eureka, Inc.             |  Fulltime  |      -     |
+| 2021/02 | 2021/03 |            CyberAgent, Inc.           | Internship |      1m    |
+| 2020/11 | 2021/02 |          Rakuten Group, Inc.          | Internship |      3m    |
 
 ## Top Posts
 
